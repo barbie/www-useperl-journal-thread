@@ -202,9 +202,9 @@ F<http://use.perl.org/>
 
 =head1 COPYRIGHT AND LICENSE
 
-  Copyright (C) 2005-2008 Barbie for Miss Barbell Productions.
+  Copyright (C) 2005-2015 Barbie for Miss Barbell Productions.
 
-  This module is free software; you can redistribute it and/or
+  This distribution is free software; you can redistribute it and/or
   modify it under the same terms as Perl itself.
 
 =cut
