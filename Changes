@@ -1,15 +1,18 @@
 Changes for WWW-UsePerl-Journal-Thread
 ======================================
 
+        - added resources to META files.
+        - created GitHub repositories.
+
 0.14	2012-08-30
     	- fixed test count on skip.
 
 0.13	2012-08-26
-	    - use.perl.org is now read only. 
+	    - use.perl.org is now read only.
 	    - thread id no longer supported.
         - removed License files from distro.
         - Artistic License v2 now sole license.
-        - spelling fixes. (thanks to Nicholas Bamber, Florian Schlichting & 
+        - spelling fixes. (thanks to Nicholas Bamber, Florian Schlichting &
           Gregor Herrmann).
         - added minimum perl version (5.006).
         - reworked Makefile.PL for clarity.
@@ -26,7 +29,7 @@ Changes for WWW-UsePerl-Journal-Thread
         - updated optional tests.
         - upgraded WWW-UsePerl-Journal required version to 0.22.
         - fixed regex to match comments for updated use.perl pages.
-        - added a useperl.pl script to examples, which can extract all the 
+        - added a useperl.pl script to examples, which can extract all the
           journal posts and associated comments, for a given user.
 
 0.10	2007-11-07
@@ -76,7 +79,7 @@ Changes for WWW-UsePerl-Journal-Thread
         - POD updates
 
 0.02	2003-08-14T12:23:02+01:00
-    	- POD updates and fixes  
+    	- POD updates and fixes
 
 0.01	2003-08-13T09:26:53+01:00
-	    - original version; based upon WWW::UsePerl::Journal 
+	    - original version; based upon WWW::UsePerl::Journal
