@@ -1,0 +1,44 @@
+WWW::UsePerl::Journal::Thread
+=============================
+
+DESCRIPTION
+
+Using WWW::UsePerl::Journal to extract entry ids, each id can be used to seed
+a thread of comments. Each comment can be accessed as an object, thus values
+can be retrieve for each object variable.
+
+DEPENDENCIES
+
+The distribution requires the following modules:
+
+  WWW::UsePerl::Journal => 0.11,
+  LWP::UserAgent        => 0,
+  HTTP::Request::Common => 0
+  Time::Piece           => 0,
+
+CHANGES
+
+See the Changes file for a list of updates to the distribution.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+AUTHOR
+
+Barbie, <modules@missbarbell.co.uk>, http://birmingham.pm.org/
+
+Miss Barbell Productions.
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2003-2005 Barbie & Miss Barbell Productions.
+All Rights Reserved.
+
+Distributed under GPL v2. See F<COPYING> included with this distibution.
+
