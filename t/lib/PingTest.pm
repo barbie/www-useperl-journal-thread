@@ -3,7 +3,7 @@ package PingTest;
 use strict;
 use warnings;
 
-my $VERSION = '0.22';
+my $VERSION = '0.15';
 
 #----------------------------------------------------------------------------
 
