@@ -1,6 +1,8 @@
 Changes for WWW-UsePerl-Journal-Thread
 ======================================
 
+        - fixed broken JSON file.
+
 0.15    2015-02-15
         - added resources to META files.
         - created GitHub repositories.

@@ -58,7 +58,7 @@
             "file" : "lib/WWW/UsePerl/Journal/Comment.pm",
             "version" : "0.15"
         }
-    }
+    },
 
     "resources": {
         "license": [ "http://www.perlfoundation.org/artistic_license_2_0" ],
