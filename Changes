@@ -1,6 +1,7 @@
 Changes for WWW-UsePerl-Journal-Thread
 ======================================
 
+0.16    2015-02-19
         - fixed broken JSON file.
 
 0.15    2015-02-15
